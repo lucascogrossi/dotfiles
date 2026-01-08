@@ -1,8 +1,4 @@
 if status is-interactive
-    if ! set -q TMUX
-        exec tmux new-session -A -s main
-    end
-
     starship init fish | source
     echo
     fastfetch
