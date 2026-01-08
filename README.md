@@ -13,3 +13,7 @@
 
 - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
+
+## Font
+
+- [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads)
